@@ -29,6 +29,7 @@ To use this extension, open `game.project` and add two entries into the `depende
 * `https://github.com/defold/android-base-extensions/releases/download/1.0.0/gps-base-16.0.1.zip`
 * `https://github.com/defold/android-base-extensions/releases/download/1.0.0/gps-ads-17.2.1.zip`
 * `https://github.com/defold/android-base-extensions/releases/download/1.0.0/support-v4-27.0.2.zip`
+* `https://github.com/defold/android-base-extensions/releases/download/1.0.0/gps-measurement-16.4.0.zip`
 
 Then select `Project -> Fetch Libraries` to download the extension in your project.
 
